@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base:"/june24portfolio",
   build: {
-    outDir: 'build',
+    outDir: 'dist',
   },
 });
