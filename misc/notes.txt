@@ -1,0 +1,8 @@
+cloned the starter branch
+npm i - to install the packages
+npm run dev - to run the website
+created sections
+npm i sass@1.68.0 - using sass for design
+ Q Why using sass? It will make the work faster as we don't have to use class names etc
+ Framer motion is used for animation
+svgs can basically be made using figma etc then download shape created using svg download and open using vscode 
